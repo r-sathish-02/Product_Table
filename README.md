@@ -92,6 +92,7 @@ Keep the table design strictly in HTML for simplicity.
 </html>
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/7798cd6d-88ed-4a3e-b4aa-dec5010726f5)
 
 ## Result:
 A structured HTML table that displays product-related information, including product names, prices, and descriptions, useful for catalogs, listings, or e-commerce prototypes is created successfully.
