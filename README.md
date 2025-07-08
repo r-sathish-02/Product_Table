@@ -48,7 +48,7 @@ Use meaningful text inside the table for clarity.
 
 Keep the table design strictly in HTML for simplicity.
 ## HTML Code:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -90,7 +90,7 @@ Keep the table design strictly in HTML for simplicity.
     </table>
 </body>
 </html>
-
+```
 ## Output:
 
 ## Result:
